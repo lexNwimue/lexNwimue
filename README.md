@@ -1,3 +1,4 @@
+<!--
 ### Lex here . . . 👋
 
 Yet another Backend Engineer
@@ -25,7 +26,7 @@ Yet another Backend Engineer
 - 📫 You can reach me via any of the channels on my profile
 - 😄 I often work with TypeScript and just started dabbling in the dark arts of C# and ASP.NET Core recently. I could identify as a Microsft Engineer. 
 
-<!--
+
 **lexNwimue/lexNwimue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
