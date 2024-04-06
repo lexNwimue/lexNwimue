@@ -2,7 +2,7 @@
 
 Yet another Backend Engineer
 
-# Visitor count
+Visitor count
 <img src="https://profile-counter.glitch.me/lexNwimue/count.svg" />
 
 
