@@ -2,11 +2,11 @@
 
 Yet another Backend Engineer
 
-Visitor count
+### Visitor count
 <img src="https://profile-counter.glitch.me/lexNwimue/count.svg" />
 
 
-<img src="https://github.com/lexNwimue/lexNwimue/blob/main/githubLogo.png" alt="lex Nwimue" />
+<img src="https://avatars.githubusercontent.com/u/30748446?s=400&u=4beba298a34f7a709c522f2a25ae0d73f0a016b9&v=4" alt="lex Nwimue" />
 
 <hr/>
 ## &#x1f4c8; GitHub Stats
